@@ -1,0 +1,28 @@
+{
+  "funcionarios": [
+    {
+      "id": "1",
+      "nome": "Ana Paula",
+      "cargo": "Enfermeira Chefe",
+      "setor": "Emergência",
+      "turno": "Manhã",
+      "salario": 4500
+    },
+    {
+      "id": "2",
+      "nome": "Carlos Eduardo",
+      "cargo": "Médico Clínico Geral",
+      "setor": "Clínica Médica",
+      "turno": "Tarde",
+      "salario": 8000
+    },
+    {
+      "id": "3",
+      "nome": "Mariana Lima",
+      "cargo": "Técnica de Enfermagem",
+      "setor": "UTI",
+      "turno": "Noite",
+      "salario": 3200
+    }
+  ]
+}
