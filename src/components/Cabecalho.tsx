@@ -41,7 +41,7 @@ export default function Header() {
               Início
             </Link>
             <Link 
-              to="/solucao" 
+              to="/lista-funcionarios" 
               className="text-gray-700 hover:text-blue-600 hover:bg-blue-50 transition-all duration-200 font-medium px-4 py-2 rounded-lg"
             >
               Funcionario
